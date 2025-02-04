@@ -2,7 +2,8 @@
 This is the custom firmware for a a bed-slinger style 3D printing Automatic Manufacturing Unit (AMU). 
 
 Key features include:
-
+ 
+    Rotation Distance calculator included, to calibrate stepper motor/ extruder movements to dimensional accuracy. 
     Automated Bed Leveling: Utilizes a BL/CRTouch probe for precise bed calibration.
     Full Pin Mapping: Compatible with Creality 4.2.2 to 4.2.7 motherboards, making it easier to integrate with these popular board versions.
     Advanced Temperature Control: Includes PID tuning for consistent and accurate temperatures.
@@ -43,3 +44,8 @@ This firmware is made for the following hardware for enhanced printing:
     Bi-Metal Heatbreak: Enables high-temp printing, ideal for advanced materials.
     Upgraded Fans: Ensures consistent temperature control during long prints.
     High-Speed Motion: Features upgraded motors and linear rails for faster, more accurate prints.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+PLEASE USE ROTATION CALCULATOR WHEN SWITCHING MATERIALS, DIFFERENCES IN STIFFNESS OF MATERIAL WILL CAUSE DIMENSIONAL ACCURACY
+----------------------------------------------------------------------------------------------------------------------------------------------
