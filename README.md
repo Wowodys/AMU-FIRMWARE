@@ -12,7 +12,7 @@ Key features include:
 Compatibility
 
     Motherboards: Compatible with Creality 4.2.2 to 4.2.7 boards.
-    Probes: Fully supports the BL/CRTouch probe for automatic bed leveling.
+    Probes: Fully supports the BL/CRTouch probe for automatic bed leveling + screw tilt adjust (tells you how much to tram bed)
     Displays: Supports various LCD displays; check the lcd_type setting in the configuration file for compatibility.
 
 ----------------------------------------------------------------------------------------------------
